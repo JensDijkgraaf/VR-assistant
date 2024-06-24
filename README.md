@@ -16,7 +16,7 @@ public static class APIKey
 
 ## Text to Speech
 https://github.com/srcnalt/OpenAI-Unity/pull/113/files#diff-3c14f2b820b7818499f64362bcf4bd138f0ebb0b0e17b3af1955a72f5760a8e1
-Voeg de aanpassingen uit deze pull request toe aan de openAI package voor Text to Speech support. Belangrijk zijn de DataTypes.cs en OpenAIApi.cs aanpassingen in de Runtime folder, en de toegevoegde IAudioResponse.cs file in de Interfaces folder. Deze files zijn ook te vinden in de "Extra" map in dit project.
+Voeg de aanpassingen uit deze pull request toe aan de openAI package voor Text to Speech support. Belangrijk zijn de DataTypes.cs en OpenAIApi.cs aanpassingen in de Runtime folder, en de toegevoegde IAudioResponse.cs file in de Interfaces folder. Deze files zijn ook te vinden in de "Extra" map in dit project. Het beste is om alle files uit de pull request over te nemen.
 
 ## Een prompt uploaden
 Indien de gebruiker een nieuw prompt wil uploaden, kan de gebruiker een .txt bestand aanmaken en deze uploaden naar de headset. Binnen de applicatie kan in de geavanceerde instellingen een file browser geopend worden om het geüploade .txt bestand te zoeken.
