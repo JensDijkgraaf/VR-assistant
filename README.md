@@ -1,4 +1,4 @@
-# VR-Therapeut
+# VR-Assistent
 
 Deze applicatie maakt gebruik van een LLM in VR om zo een persoonlijke assistent te simuleren. Binnen de applicatie zijn er mogelijkheden om gebruik te maken van een therapeut of studieadviseur.
 Verder is het mogelijk om deze applicatie als template te gebruiken voor een ander soort assistent, door zelf een prompt te uploaden.
